@@ -1,4 +1,7 @@
-# jekyll-theme-material
+# [ARCHIVED] jekyll-theme-material
+
+> [!WARNING]
+> This repository is **archived** and is no longer being maintained. It remains here for historical purposes, but no further updates, bug fixes, or pull requests will be accepted.
 
 This theme is based on <a href='https://getmdl.io/' target='blank'>Material Design Lite (MDL)</a>
 
@@ -55,7 +58,7 @@ google_analytics: [Your Google Analytics tracking ID]
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/ENG618/jekyll-theme-material. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+This project is archived and is no longer accepting contributions (bug reports or pull requests).
 
 ## Development
 
